@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibDomain.a CMakeFiles/libDomain.dir/src/Compute.cpp.o
+/usr/bin/ranlib liblibDomain.a
