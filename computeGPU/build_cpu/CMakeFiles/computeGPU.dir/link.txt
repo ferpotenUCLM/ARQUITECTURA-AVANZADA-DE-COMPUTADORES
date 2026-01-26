@@ -1,0 +1,1 @@
+g++ CMakeFiles/computeGPU.dir/main.cpp.o CMakeFiles/computeGPU.dir/libDomain/src/Compute.cpp.o -o computeGPU 

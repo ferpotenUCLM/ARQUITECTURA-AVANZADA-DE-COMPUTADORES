@@ -1,0 +1,3 @@
+/home/fernando/Documentos/ARQUITECTURA AVANZADA DE COMPUTADORES/computeGPU/build_gpu/CMakeFiles/computeGPU.dir
+/home/fernando/Documentos/ARQUITECTURA AVANZADA DE COMPUTADORES/computeGPU/build_gpu/CMakeFiles/edit_cache.dir
+/home/fernando/Documentos/ARQUITECTURA AVANZADA DE COMPUTADORES/computeGPU/build_gpu/CMakeFiles/rebuild_cache.dir
